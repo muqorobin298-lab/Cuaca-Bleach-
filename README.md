@@ -2,7 +2,7 @@
 
 Aplikasi cuaca bertema anime Bleach, dibuat pakai HTML, CSS, dan JavaScript.
 
-🔗 **Coba di sini:** https://muqorobin298-lab.github.io/Cuaca-Bleach/
+🔗 **Coba di sini:** https://muqorobin298-lab.github.io/Cuaca-Bleach-/
 
 ## Fitur
 - Cari cuaca kota mana saja di dunia
